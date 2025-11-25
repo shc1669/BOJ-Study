@@ -1,4 +1,4 @@
-package baekjun.FOR;
+package baekjun.For;
 
 import java.io.BufferedReader;
 import java.io.IOException;
